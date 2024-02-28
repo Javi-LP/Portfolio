@@ -25,8 +25,8 @@ En este proyecto se hace frente al problema de excesiva rotación de personal de
 
 ## Certificates
 
-  -[Machine Learning - Standford Online](https://github.com/Javi-LP/Portfolio/blob/main/certificados/Standford%20Online%20MachineLearning%204WZWFBU42WZV.pdf)
-  -[Programa Especializado - IBM AI Engineering](https://github.com/Javi-LP/Portfolio/blob/main/certificados/IBM%20AI%20Engineering%20BG8CADJB6YCJ.pdf)
-  -[Data Science for everyone - DataCamp](https://github.com/Javi-LP/Portfolio/blob/main/certificados/DataCampDataScience.pdf)
-  -[Certificate Advance English - Cambridge](https://github.com/Javi-LP/Portfolio/blob/main/certificados/Cambridge%20CAE%20(C1).pdf)
+  - [Machine Learning - Standford Online](https://github.com/Javi-LP/Portfolio/blob/main/certificados/Standford%20Online%20MachineLearning%204WZWFBU42WZV.pdf)
+  - [Programa Especializado - IBM AI Engineering](https://github.com/Javi-LP/Portfolio/blob/main/certificados/IBM%20AI%20Engineering%20BG8CADJB6YCJ.pdf)
+  - [Data Science for everyone - DataCamp](https://github.com/Javi-LP/Portfolio/blob/main/certificados/DataCampDataScience.pdf)
+  - [Certificate Advance English - Cambridge](https://github.com/Javi-LP/Portfolio/blob/main/certificados/Cambridge%20CAE%20(C1).pdf)
 
