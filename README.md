@@ -13,9 +13,6 @@ En este proyecto se hace frente al problema de excesiva rotación de personal de
 
 #
 
-## Micro Projects
-- ### Statistics and Machine Learning
-
 
 ## Core Competencies
 
