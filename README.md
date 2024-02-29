@@ -17,7 +17,7 @@ En este proyecto se hace frente al problema de excesiva rotación de personal de
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib, Tensorflow, Seaborn), R, SQL, C
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Keras, Matplotlib, Tensorflow, PyTorch, Seaborn), R, SQL, C
 - **Tools**: MySQL, PostgreSQL, Tableau, Git, Airflow, Amazon Web Services (AWS), Microsoft Azure, MS Excel, Power BI
 
 ## Certificates
