@@ -6,7 +6,7 @@ Este portfolio es una compilación de los proyectos tanto personales (para hobby
 
 ## Projects
 
-<img align="left" width="150" height="150" src="https://github.com/Javi-LP/Portfolio/blob/main/main/Images/rotacion.jpg"> **[Análisis de rotación de plantilla y predicción de renuncia](https://github.com/Javi-LP/Rotacion-plantilla)**
+<img align="left" width="150" height="150" src="https://github.com/Javi-LP/Portfolio/blob/main/main/Images/rotacion.jpg"> **[Análisis de rotación de plantilla y predicción de renuncia](https://github.com/Javi-LP/Rotacion-plantilla/Rotacion_plantilla.ipynb)**
 
 En este proyecto se hace frente al problema de excesiva rotación de personal dentro una empresa. Durante el EDA podemos encontrar un perfil clave de empleado que dimitirá y, por último, se entrena un modelo que calcule la probabilidad de renuncia de cada empleado.
 
