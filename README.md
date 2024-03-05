@@ -11,6 +11,10 @@ Este portfolio es una compilación de los proyectos tanto personales (para hobby
 En este proyecto se hace frente al problema de excesiva rotación de personal dentro una empresa. Durante el EDA podemos encontrar un perfil clave de empleado que dimitirá y, por último, se entrena un modelo que calcule la probabilidad de renuncia de cada empleado.
 
 
+<img align="left" width="150" height="150" src="https://github.com/Javi-LP/Portfolio/blob/main/main/Images/dataset-filmaffinity.png"> **[¿Triunfaria esta película?](https://github.com/Javi-LP/Film-affinity-predictor/)**
+
+En este proyecto se hace un estudio de la historia del cine a través de un dataset de filmaffinity.
+
 #
 
 
