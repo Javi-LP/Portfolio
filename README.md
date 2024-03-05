@@ -18,6 +18,7 @@ En este proyecto se hace un estudio de la historia del cine a través de un data
 
 #
 
+<br />
 
 ## Core Competencies
 
