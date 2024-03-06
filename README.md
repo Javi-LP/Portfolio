@@ -12,9 +12,9 @@ En este proyecto se hace frente al problema de excesiva rotación de personal de
 
 #
 
-<img align="left" width="150" height="150" src="https://github.com/Javi-LP/Portfolio/blob/main/main/Images/dataset-filmaffinity.png"> **[¿Triunfaría esta película?](https://github.com/Javi-LP/Film-affinity-predictor/)**
+<img align="left" width="150" height="150" src="https://github.com/Javi-LP/Portfolio/blob/main/main/Images/dataset-filmaffinity.png"> **[Análisis de la evolución del sector del cine]**
 
-En este proyecto se hace un estudio de la historia del cine a través de un dataset de filmaffinity. Durante el proceso se puede ver la evolución de los géneros cinematográficos y, por último, se tratará de crear un modelo de predicción para la nota que una hipotética pelicula podría sacar en filmaffinity.
+En este proyecto se hace un estudio de la historia del cine a través de un dataset de filmaffinity. Durante el proceso se puede ver la evolución de los géneros cinematográficos. Se aisla la tendencia bajista de la calidad de las películas (posible sesgo de comparación) y, por último, se busca una predicción de la evolución del mercado del cine por género.
 
 #
 
