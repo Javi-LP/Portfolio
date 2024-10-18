@@ -6,13 +6,13 @@ Este portfolio es una compilación de los proyectos tanto personales (para hobby
 
 ## Projects
 
-<img align="left" width="200" height="200" src="https://github.com/Javi-LP/Portfolio/blob/main/main/Images/rotacion.jpg"> **[Análisis de rotación de plantilla y predicción de renuncia](https://github.com/Javi-LP/Rotacion-plantilla/)**
+<img align="left" width="150" height="150" src="https://github.com/Javi-LP/Portfolio/blob/main/main/Images/rotacion.jpg"> **[Análisis de rotación de plantilla y predicción de renuncia](https://github.com/Javi-LP/Rotacion-plantilla/)**
 
 En este proyecto se hace frente al problema de excesiva rotación de personal dentro una empresa. Durante el EDA podemos encontrar un perfil clave de empleado que dimitirá y, por último, se entrena un modelo que calcule la probabilidad de renuncia de cada empleado.
 
 #
 
-<img align="left" width="200" height="200" src="https://github.com/Javi-LP/Portfolio/blob/main/main/Images/dataset-filmaffinity.png"> **[Análisis de la evolución del sector del cine](https://github.com/Javi-LP/Film-affinity-predictor)**
+<img align="left" width="150" height="150" src="https://github.com/Javi-LP/Portfolio/blob/main/main/Images/dataset-filmaffinity.png"> **[Análisis de la evolución del sector del cine](https://github.com/Javi-LP/Film-affinity-predictor)**
 
 En este proyecto se hace un estudio de la historia del cine a través de un dataset de filmaffinity. Durante el proceso se puede ver la evolución de los géneros cinematográficos. Se aisla la tendencia bajista de la calidad de las películas (posible sesgo de comparación) y, por último, se busca una predicción de la evolución del mercado del cine por género.
 
