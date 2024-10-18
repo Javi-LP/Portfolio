@@ -18,7 +18,7 @@ En este proyecto se hace un estudio de la historia del cine a través de un data
 
 #
 
-<img align="left" width="200" height="200" src="https://github.com/Javi-LP/Portfolio/blob/main/main/Images/RAG2.png"> **[RAG LLM Javier AIssistant](https://github.com/Javi-LP/Film-affinity-predictor)**
+<img align="left" width="200" height="200" src="https://github.com/Javi-LP/Portfolio/blob/main/main/Images/RAG2.png"> **[RAG LLM Javier AIssistant](https://github.com/Javi-LP/AIssistant)**
 
 En este proyecto, he desarrollado un chatbot llamado AIssistant, diseñado para que los usuarios interactúen y obtengan información sobre mi trayectoria profesional, así como algunos detalles personales. El sistema está construido sobre la plataforma LangChain y utiliza el modelo GPT-4. Para cada consulta, se implementa un proceso de Recuperación-Generación (RAG), mediante el cual se vectoriza la pregunta y se extraen N líneas relevantes del contexto. Esta información, junto con la pregunta, se envía al modelo de lenguaje para generar una respuesta precisa y contextualizada. Para probarlo solo pulsa en el enlace https://t.me/JavierAIssistant_bot y utiliza el codigo: PORTOFOLIO
 
